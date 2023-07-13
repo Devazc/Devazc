@@ -1,4 +1,4 @@
-### *Hi there 👋*
+### *🍊 Hello!, How are you?*
 
 - 🔭 *I’m currently working on Telegram Bots, Data Analytics Projects*
 - 🌱 *I’m currently learning APIs, AI Skills AI Builder*
