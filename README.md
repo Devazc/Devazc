@@ -5,6 +5,6 @@
 - 👯 *I’m looking to collaborate on open source projects*
 - 📫 *How to reach me: devc@devazc.com*
 - 😄 *Just call me Dev*
-- ⚡ *Fun fact: I Woke Up Too Late*
+- ⚡ *Fun fact: Suffers from PERFECTIONISM*
 
  > *Recent Works <⁄> *[CourseVault](coursevault.super.site)* - A Database for free Courses*
