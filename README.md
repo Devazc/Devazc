@@ -7,5 +7,6 @@
 - 😄 *Just call me Dev*
 - ⚡ *Fun fact: Suffering from #PERFECTIONISM*
 
-> *Building </> *[Supresa](supresa.site)* - *Upscale your Images to Super Resolution*
- > *Recent Works <⁄> *[CourseVault](coursevault.super.site)* - A Database for free Courses*
+> *Building* </> *[Supresa](supresa.site)* - *Upscale your Images to Super Resolution*
+
+> *Recent Works <⁄> *[CourseVault](coursevault.super.site)* - A Database for free Courses*
