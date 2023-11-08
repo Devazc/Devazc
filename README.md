@@ -1,4 +1,4 @@
-### *🍊 Hello!, How are you?*
+### *🍊 Hello!, On HIATUS*
 
 - 🔭 *I’m currently working on AI Web Apps, Data Analytics Projects*
 - 🌱 *I’m currently learning APIs, AI Skills AI Builder*
